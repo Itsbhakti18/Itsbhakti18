@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Bhakti Kajalkar
 
-<!--
-**Itsbhakti18/Itsbhakti18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at Mumbai University
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer passionate about Java, Web Development, and Problem Solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently working on internship projects and building practical development skills.
+
+## 🛠️ Tech Stack
+
+- Java
+- HTML
+- CSS
+- SQL
+- Git
+- GitHub
+- MySQL
+
+## 📌 Current Focus
+
+- Advanced Java
+- Web Development
+- Internship Projects
+- Building Real-World Applications
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Itsbhakti18
+- Email: kajalkarbhakti@gmail.com
