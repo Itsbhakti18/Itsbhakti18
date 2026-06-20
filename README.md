@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bhakti Kajalkar
+# Hi, I'm Bhakti Kajalkar.
 
 🎓 MCA Student at Mumbai University
 
